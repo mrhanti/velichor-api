@@ -1,0 +1,10 @@
+{
+  "name": "velichor-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node prodApiServer.js"
+  },
+  "dependencies": {
+    "json-server": "^0.9.4"
+  }
+}
