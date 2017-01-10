@@ -1009,6 +1009,48 @@
       }
     }
   ],
+  "answers": [
+    {
+      "questionId": "gQ0Fvf",
+      "answerId": "A_0RIi",
+      "id": 1
+    },
+    {
+      "questionId": "4T03I2",
+      "answerId": "NR0-Mf",
+      "id": 2
+    },
+    {
+      "questionId": "IT0YH2",
+      "answerId": "Hi0KGf",
+      "id": 3
+    }
+  ],
+  "annotations": [],
 
-  "answers": []
+  "lab-values": [{
+    "id": "df0oO2",
+    "values": [
+      {
+        "title": "Blood",
+        "slug": "blood",
+        "content": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p><ul><li>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</li><li>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</li><li>Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.</li><li>Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</li></ul><nav><ul><li><a href=\"#\">Home</a></li><li><a href=\"#\">About</a></li><li><a href=\"#\">Clients</a></li><li><a href=\"#\">Contact Us</a></li></ul></nav>"
+      },
+      {
+        "title": "Hematologic",
+        "slug": "hematologic",
+        "content": "<dl><dt>Definition list</dt><dd>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex eacommodo consequat.</dd><dt>Lorem ipsum dolor sit amet</dt><dd>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex eacommodo consequat.</dd></dl><h1>HTML Ipsum Presents</h1><p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href=\"#\">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p><h2>Header Level 2</h2><ol><li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li><li>Aliquam tincidunt mauris eu risus.</li></ol><blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote><h3>Header Level 3</h3><ul><li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li><li>Aliquam tincidunt mauris eu risus.</li></ul><pre><code>#header h1 a {display: block;width: 300px;height: 80px;}</code></pre>"
+      },
+      {
+        "title": "Cerebrospinal",
+        "slug": "cerebrospinal",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ad haec, nisi molestum est, habeo quae velim. Duo Reges: constructio interrete. Sed erat aequius Triarium aliquid de dissensione nostra iudicare. </p><ul><li>Itaque homo in primis ingenuus et gravis, dignus illa familiaritate Scipionis et Laelii, Panaetius, cum ad Q.</li><li>Nam cum in Graeco sermone haec ipsa quondam rerum nomina novarum * * non videbantur, quae nunc consuetudo diuturna trivit;</li><li>Nulla erit controversia.</li></ul><p>Bona autem corporis huic sunt, quod posterius posui, similiora. Hoc est non modo cor non habere, sed ne palatum quidem. Idemne, quod iucunde? Cur post Tarentum ad Archytam? </p><dl><dt><dfn>Pollicetur certe.</dfn></dt><dd>Nescio quo modo praetervolavit oratio.</dd><dt><dfn>Quibusnam praeteritis?</dfn></dt><dd>Cum autem negant ea quicquam ad beatam vitam pertinere, rursus naturam relinquunt.</dd><dt><dfn>Poterat autem inpune;</dfn></dt><dd>Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes.</dd><dt><dfn>Pollicetur certe.</dfn></dt><dd>Illa tamen simplicia, vestra versuta.</dd></dl><p>Qui ita affectus, beatum esse numquam probabis; Quae diligentissime contra Aristonem dicuntur a Chryippo. Nam quibus rebus efficiuntur voluptates, eae non sunt in potestate sapientis. Nemo igitur esse beatus potest. </p><p>Nam de summo mox, ut dixi, videbimus et ad id explicandum disputationem omnem conferemus. At ille non pertimuit saneque fidenter: Istis quidem ipsis verbis, inquit; Qui autem esse poteris, nisi te amor ipse ceperit? Nam ante Aristippus, et ille melius. Res tota, Torquate, non doctorum hominum, velle post mortem epulis celebrari memoriam sui nominis. Quod non faceret, si in voluptate summum bonum poneret. Quid ei reliquisti, nisi te, quoquo modo loqueretur, intellegere, quid diceret? Quid, si non sensus modo ei sit datus, verum etiam animus hominis? Aliter homines, aliter philosophos loqui putas oportere? </p><ol><li>Atque his de rebus et splendida est eorum et illustris oratio.</li><li>Nec tamen ullo modo summum pecudis bonum et hominis idem mihi videri potest.</li><li>Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus;</li><li>Ne amores quidem sanctos a sapiente alienos esse arbitrantur.</li></ol><blockquote cite='http://loripsum.net'>Quamquam ex omnibus philosophis Stoici plurima novaverunt, Zenoque, eorum princeps, non tam rerum inventor fuit quam verborum novorum.</blockquote><p>De illis, cum volemus. Esse enim quam vellet iniquus iustus poterat inpune. Quo plebiscito decreta a senatu est consuli quaestio Cn. Qui enim existimabit posse se miserum esse beatus non erit. Hoc ipsum elegantius poni meliusque potuit. Teneo, inquit, finem illi videri nihil dolere. </p>"
+      },
+      {
+        "title": "Sweat, Urine, BMI",
+        "slug": "sweat-urine-bmi",
+        "content": "<h1>Sic vester sapiens magno aliquo emolumento commotus cicuta, si opus erit, dimicabit.</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Multoque hoc melius nos veriusque quam Stoici. Apparet statim, quae sint officia, quae actiones. <i>Comprehensum, quod cognitum non habet?</i> Roges enim Aristonem, bonane ei videantur haec: vacuitas doloris, divitiae, valitudo; <b>Duo Reges: constructio interrete.</b> Cum id fugiunt, re eadem defendunt, quae Peripatetici, verba. Nos commodius agimus. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur. Quamquam tu hanc copiosiorem etiam soles dicere. <a href='http://loripsum.net/' target='_blank'>Falli igitur possumus.</a> </p><ul><li>Scaevolam M.</li><li>Equidem, sed audistine modo de Carneade?</li><li>Nam de isto magna dissensio est.</li><li>Quod totum contra est.</li></ul><p>Neque solum ea communia, verum etiam paria esse dixerunt. Verba tu fingas et ea dicas, quae non sentias? </p><p><a href='http://loripsum.net/' target='_blank'>Quorum altera prosunt, nocent altera.</a> <a href='http://loripsum.net/' target='_blank'>Bonum valitudo: miser morbus.</a> Iam in altera philosophiae parte. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Habent enim et bene longam et satis litigiosam disputationem. Urgent tamen et nihil remittunt. At ille pellit, qui permulcet sensum voluptate. </p><p>Quamquam ab iis philosophiam et omnes ingenuas disciplinas habemus; Non autem hoc: igitur ne illud quidem. <b>Pauca mutat vel plura sane;</b> An eiusdem modi? At Zeno eum non beatum modo, sed etiam divitem dicere ausus est. Bonum negas esse divitias, praeposìtum esse dicis? </p><p>Sed residamus, inquit, si placet. Hoc non est positum in nostra actione. Sed virtutem ipsam inchoavit, nihil amplius. Rationis enim perfectio est virtus; Quorum altera prosunt, nocent altera. </p>"
+      }
+    ]
+  }]
 }
